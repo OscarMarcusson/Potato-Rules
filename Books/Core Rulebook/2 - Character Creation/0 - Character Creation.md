@@ -14,16 +14,3 @@ Demigod            | 1 000    | 100
 God                | 10 000 + | 1000 +
 
 These character creation points will be used in the following steps, as they will let you customize your character by allocating the points into ***skills***, ***attributes*** and ***traits***.
-
-
-<content>
-1. Step 1 - Race & Gender
-2. Step 2 - Aptitude Increase
-3. Step 3 - Traits
-4. Step 4 - Attributes
-5. Step 5 - Secondary Attributes & Health
-6. Step 6 - Talent Points
-7. Step 7 - Skills
-8. Step 8 - Background
----
-9. Character Examples
