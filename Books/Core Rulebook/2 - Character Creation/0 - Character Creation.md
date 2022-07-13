@@ -4,7 +4,7 @@ The following pages cover character creation, what you start with and how you in
 The first thing to do before creating your character is to, together with the group, decide how powerful your characters will be compared to the world around you. In most campaigns you start at average or strong and increase it from there as you play, but you may play as the weakest or strongest individuals as well. Refer to the table below to see how many character creation points (***CCP***) and talent points (***TP***) that you start with:
 
 Power              | ***CCP***| ***Talent Points***
----                | ---      | ---
+---                | ---:     | ---:
 Weak               | 60       | 6
 Average            | 100      | 10
 Strong             | 140      | 14
