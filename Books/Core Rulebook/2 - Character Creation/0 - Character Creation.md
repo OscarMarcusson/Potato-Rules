@@ -14,3 +14,7 @@ Demigod            | 1 000    | 100
 God                | 10 000 + | 1000 +
 
 These character creation points will be used in the following steps, as they will let you customize your character by allocating the points into ***skills***, ***attributes*** and ***traits***.
+
+
+### Background
+It is up to you if you want to create the background for your character first and use that as a base for the stats or if you just create the character and reverse engineer the background from that. There is no wrong way of doing it as long as a background is created.
