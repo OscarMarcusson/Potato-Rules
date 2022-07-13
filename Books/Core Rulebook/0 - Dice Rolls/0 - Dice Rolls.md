@@ -1,0 +1,2 @@
+# Dice Rolls
+Whenever the outcome of a characters action is uncertain, that character will perform a dice roll to determine what will happen. This applies for almost every aspect of the game, be that attacking, fishing, climbing or forging a document. The more you roleplay the less you need to rely on dice however, so don't be afraid to actually talk to the guard about why you tried to stealth through that dark alley. Given good arguments and a solid poker face he could let you go without you ever having to roll!
