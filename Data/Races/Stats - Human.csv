@@ -5,12 +5,10 @@ Reflex, 8, 8
 Endurance, 17, 17
 Willpower, 11, 11
 Intelligence, 18, 18
-
-Secondary Attribute, Female Racial Bonus, Male Racial Bonus
+,,
+Secondary Attribute, Male, Female
 Sight, 10, 10
 Hearing, 10, 10
-
-Racial Information, Male, Female
 Height (m), 1.6 - 1.9, 1.5 - 1.8
 Weight (kg), 65 - 90, 60 - 85
 Average lifespan (years), 80, 83
