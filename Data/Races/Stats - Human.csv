@@ -1,0 +1,16 @@
+Attribute, Male Aptitude, Female Aptitude
+Strength, 12, 9
+Finesse, 9, 9
+Reflex, 8, 8
+Endurance, 17, 17
+Willpower, 11, 11
+Intelligence, 18, 18
+
+Secondary Attribute, Racial Bonus
+Sight, 10
+Hearing, 10
+
+Racial Information, Male, Female
+Height (m), 1.6 - 1.9, 1.5 - 1.8
+Weight (kg), 65 - 90, 60 - 85
+Average lifespan (years), 80, 83
