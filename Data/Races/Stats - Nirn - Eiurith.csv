@@ -1,0 +1,24 @@
+Attribute, TEMP::Corruptor, TEMP::Brawler
+Strength, 15, 30
+Finesse, 16, 16
+Reflex, 11, 15
+Endurance, 29, 29
+Willpower, 19, 14
+Intelligence, 16, 10
+,,
+Secondary Attribute, TEMP::Corruptor, TEMP::Brawler
+Sight, 10, 10
+Hearing, 15, 15
+Taste, 0, 0
+Halved TTAP cost, No, Yes
+Runic Abyssal (-2), (+1), -
+Runic Void (-2), (-1), -
+Runic Blood (-2), (0), -
+Runic Celestial (-2), (0), -
+Natural Abyssal healing, * 15, * 30
+Natural fire trauma resistance, 30, 45
+Natural cold trauma resistance, 5, 10
+Natural armor, -, 5
+Height (m), 1.6 - 1.9, 1.7 - 2.1
+Weight (kg), 55 - 95, 115 - 165
+Average lifespan (years), 180, 150
