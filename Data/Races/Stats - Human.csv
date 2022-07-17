@@ -6,9 +6,9 @@ Endurance, 17, 17
 Willpower, 11, 11
 Intelligence, 18, 18
 
-Secondary Attribute, Racial Bonus
-Sight, 10
-Hearing, 10
+Secondary Attribute, Female Racial Bonus, Male Racial Bonus
+Sight, 10, 10
+Hearing, 10, 10
 
 Racial Information, Male, Female
 Height (m), 1.6 - 1.9, 1.5 - 1.8
